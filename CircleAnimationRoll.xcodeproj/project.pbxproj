@@ -12,6 +12,7 @@
 		B425BDBB2151020E006989F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B425BDB92151020E006989F9 /* Main.storyboard */; };
 		B425BDBD2151020F006989F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B425BDBC2151020F006989F9 /* Assets.xcassets */; };
 		B425BDC02151020F006989F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B425BDBE2151020F006989F9 /* LaunchScreen.storyboard */; };
+		B425BDC8215102B4006989F9 /* StaticCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B425BDC7215102B4006989F9 /* StaticCircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B425BDBC2151020F006989F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B425BDBF2151020F006989F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B425BDC12151020F006989F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B425BDC7215102B4006989F9 /* StaticCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticCircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B425BDB52151020E006989F9 /* AppDelegate.swift */,
 				B425BDB72151020E006989F9 /* ViewController.swift */,
+				B425BDC7215102B4006989F9 /* StaticCircleView.swift */,
 				B425BDB92151020E006989F9 /* Main.storyboard */,
 				B425BDBC2151020F006989F9 /* Assets.xcassets */,
 				B425BDBE2151020F006989F9 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B425BDB82151020E006989F9 /* ViewController.swift in Sources */,
+				B425BDC8215102B4006989F9 /* StaticCircleView.swift in Sources */,
 				B425BDB62151020E006989F9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

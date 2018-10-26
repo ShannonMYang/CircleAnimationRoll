@@ -1,7 +1,7 @@
 ## CircleAnimationRoll
 ###### 一个简单的转圈加载动画。
 
-<div align = center><img width = "436" height = "869" src = "https://github.com/ShannonMYang/CircleAnimationRoll.git/raw/master/imagesFile/resultShow.gif">
+<div align = center><img width = "436" height = "869" src = "https://github.com/ShannonMYang/CircleAnimationRoll/blob/master/imagesFile/resultShow.gif">
 </div>
 
 > `说明`
